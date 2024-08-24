@@ -11,7 +11,7 @@ Welcome to the Text Decoder Project! This application allows you to encode and d
 
 ## Live Demo
 
-- **Vercel**: [View on Vercel](https://decoder-dee1ving2-ayrtonmoura04s-projects.vercel.app)
+- **Vercel**: [View on Vercel](https://decoder-o6g11r9ri-ayrtonmoura04s-projects.vercel.app/)
 - **GitHub Pages**: [View on GitHub Pages](https://ayrtonmoura04.github.io/decoder/)
 
 ## Features
