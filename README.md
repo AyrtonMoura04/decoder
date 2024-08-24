@@ -5,8 +5,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
 
 Welcome to the Text Decoder Project! This application allows you to encode and decode text using a custom cipher. The purpose of this project is to enable you to exchange secret messages with others who know the encoding method.
+
+## Live Demo
+
+- **Vercel**: [View on Vercel](https://decoder-dee1ving2-ayrtonmoura04s-projects.vercel.app)
+- **GitHub Pages**: [View on GitHub Pages](https://ayrtonmoura04.github.io/decoder/)
 
 ## Features
 
