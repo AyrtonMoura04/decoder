@@ -3,12 +3,12 @@
 :root {
     --font-family: 'Roboto', sans-serif;
 
-    --color-bg: #000519; 
-    --color-container-bg: #171920; 
+    --color-bg: #121212; 
+    --color-container-bg: #1F1F1F; 
     --color-primary: #EB3678; 
     --color-primary-hover: #FB773C; 
-    --color-text: #fff; 
-    --color-placeholder: #fff; 
+    --color-text: #E0E0E0; 
+    --color-placeholder: #B2B8B2; 
 
     --gradient-start: #ff4b8b; 
     --gradient-middle: #7c51f4; 
